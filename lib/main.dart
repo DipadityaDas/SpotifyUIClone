@@ -124,7 +124,7 @@ class _MyHomePageSetup extends State<MyHomePage> {
                 ],
               ),
               SizedBox(
-                height: 60,
+                height: 100,
               ),
               Container(
                 child: ClipRRect(
@@ -135,7 +135,7 @@ class _MyHomePageSetup extends State<MyHomePage> {
                 width: 325,
               ),
               SizedBox(
-                height: 60,
+                height: 100,
               ),
               Container(
                 padding: EdgeInsets.only(left: 25, right: 25),
